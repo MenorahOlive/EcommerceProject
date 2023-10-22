@@ -1,0 +1,21 @@
+p,a{
+	border: 2px solid blue;/*border width, style, color*/
+	padding: 30px;
+	display: block;
+	margin: 20px;
+	width: 50%;
+	border-radius: 20px ;
+
+}
+a: link{
+	color: darkgray;
+}
+a:visited{
+	color: darkred;
+}
+a:hover{
+	color: darkolivegreen;
+}
+a:active{
+	color: darksalmon;
+}

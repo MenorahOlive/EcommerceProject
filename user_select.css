@@ -1,0 +1,38 @@
+body{
+    font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  color: black;
+  background-color: whitesmoke;
+  
+}
+thead{
+    
+    background-color: #eabe83;
+}
+.table {
+    width: 100%;
+  margin: auto;
+
+}
+
+.button{
+    border: 2px solid #eabe83;
+ padding: 5px;
+ margin: 5px;
+ width: 50px;
+ border-radius: 10px ;
+ font-size: 70%;
+ text-align: centre;
+ background-color: #eabe83 ;
+ color: black;
+ box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+}
+.button:hover{
+background:  lightgray;
+border-color: lightgray;
+  }
+  .button a{
+color: black;
+text-decoration: none;
+}
+
